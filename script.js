@@ -4,7 +4,7 @@ const video = document.querySelector('.hero video');
 const hero = document.querySelector('.hero');
 
 gsap.to(video, {
-  scale: 1.75,           
+  scale: 1.9,           
   scrollTrigger: {
     trigger: hero,
     start: "top top",
