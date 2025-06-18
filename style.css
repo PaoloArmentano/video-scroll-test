@@ -11,10 +11,6 @@
     font-family: sans-serif;
     overflow-x: hidden;
   }
-
-  body, .hero {
-    border: 2px solid black,
-  }
   
   header {
     position: fixed;
